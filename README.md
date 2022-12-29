@@ -48,7 +48,11 @@ Ordered List
    - First Nested List Item
      - Second List Item
 
+## Task List ##
 
+- [x] Task 1
+- [ ] Task 2
+- [ ] Task 3
 
 
 Sir Zeeshan Hanif's Lecture Demos
