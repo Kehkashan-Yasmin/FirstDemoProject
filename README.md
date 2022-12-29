@@ -32,6 +32,16 @@ git commit
 ```
 This site was built using [GitHub Pages](https://pages.github.com/)
 
+Unordered List
+- List Item 1
+- List Item 2
+- List Item 3
+
+Ordered List
+1 List Item 1
+2 List Item 2
+3 List Item 3
+
 
 
 Sir Zeeshan Hanif's Lecture Demos
