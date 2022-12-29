@@ -38,9 +38,9 @@ Unordered List
 - List Item 3
 
 Ordered List
-1List Item 1
-2List Item 2
-3List Item 3
+1. List Item 1
+2. List Item 2
+3. List Item 3
 
 
 
