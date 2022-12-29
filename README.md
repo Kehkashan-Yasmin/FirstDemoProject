@@ -18,4 +18,11 @@ _This is also Italicized Text_
 
 ***All bold and italic***
 
+In the words of IBRAHIM LINCON
+
+> Pardon my French
+
+
+
+
 Sir Zeeshan Hanif's Lecture Demos
