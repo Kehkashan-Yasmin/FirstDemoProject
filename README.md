@@ -12,6 +12,6 @@ __This is also Bold Text__
 
 _This is also Italicized Text_
 
-```This text is incorrect```
+~~This text is incorrect~~
 
 Sir Zeeshan Hanif's Lecture Demos
