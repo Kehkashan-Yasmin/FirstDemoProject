@@ -14,4 +14,8 @@ _This is also Italicized Text_
 
 ~~This text is incorrect~~
 
+**This text is _extremely important_**
+
+***All bold and italic***
+
 Sir Zeeshan Hanif's Lecture Demos
