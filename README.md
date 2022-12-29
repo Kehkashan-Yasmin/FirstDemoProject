@@ -4,6 +4,7 @@
 
 ###### The Smallest Heading
 
-** Hello This is Bold Text **
+**Hello This is Bold Text**
+
 __ This is also Bold Text __
 Sir Zeeshan Hanif's Lecture Demos
