@@ -6,7 +6,7 @@
 
 **Hello This is Bold Text**
 
-**This is also Bold Text**
-
 __This is also Bold Text__
+
+*This text is Italic*
 Sir Zeeshan Hanif's Lecture Demos
